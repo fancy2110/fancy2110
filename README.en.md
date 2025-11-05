@@ -1,7 +1,7 @@
 ## Hi there 👋
-🚀 Written tons of code in C/C++/Java/Kotlin/Rust, especially adore Rust/Kotlin
-🌱 Continuously exploring product development, enjoying bringing ideas to life
-💡 Believe elegant code creates products users love
+* 🚀 Written tons of code in C/C++/Java/Kotlin/Rust, especially adore Rust/Kotlin
+* 🌱 Continuously exploring product development, enjoying bringing ideas to life
+* 💡 Believe elegant code creates products users love
 
 📫 How to reach me: fancy2110@gmail.com
 

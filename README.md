@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🚀 写过很多代码：C/C++/Java/Kotlin/Rust等，尤爱Rust与Kotlin的优雅表达
-🌱 持续探索产品研发，享受将想法落地的过程
-💡 坚信优雅的代码能创造用户喜爱的产品
+* 🚀 写过很多代码：C/C++/Java/Kotlin/Rust等，尤爱Rust与Kotlin的优雅表达
+* 🌱 持续探索产品研发，享受将想法落地的过程
+* 💡 坚信优雅的代码能创造用户喜爱的产品
 
 ---
 📫 How to reach me: fancy2110@gmail.com
